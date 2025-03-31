@@ -1,0 +1,13 @@
+form {
+    width: 500px;
+    height: 400px;
+    background-color: aqua;
+    margin: 100px auto;
+
+}
+.container{
+    padding: 100px;
+}
+input{
+      margin-bottom: 50px ;
+}
